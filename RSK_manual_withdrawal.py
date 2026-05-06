@@ -27,7 +27,7 @@ CONTRACT_ADDRESS = "0x5978c6153a06B141Cd0935569F600A83Eb44aeaA"
 
 # Your wallet (the address that will SEND the withdraw transaction)
 SENDER_ADDRESS     = "0x6Axxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"   #Your address / can be a different address
-SENDER_PRIVATE_KEY = "0x68ed5c10c7xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx07d"     #private key
+SENDER_PRIVATE_KEY = "0x68xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx07d"     #private key
 
 # ----------------------------------------------------------------------------
 # 2) WITHDRAW PARAMETERS  -- fill these in manually
@@ -40,7 +40,7 @@ AMOUNT     = 1_000_000_000_000_000   # change to the correct amount. This is 1 m
 NONCE      = 129  #must be the same as in the burn validation.
 
 # Address that should receive the withdrawn funds
-RECEIVER   = "0xA8Ae4c712551f5b4b3FEc44ea8DddF0De3101875"  #must be the same as in the burn validation.
+RECEIVER   = "0xa9xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"  #must be the same as in the burn validation.
 
 # A 32-byte transaction id (hex string starting with 0x, 64 hex chars)
 TXID       = "8322C567F026D6DD443BE9F60FC827EF599CF3E82FD9484C4A905FF1B4326A47"  #must be the same as in the burn validation request
